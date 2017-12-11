@@ -1,0 +1,39 @@
+<!--#include virtual="header.shtml" -->
+
+<h1>Organisers</h1>
+
+<p>The workshop is locally organised by the Central Statistical Bureau of Latvia, University of Latvia, Association of Latvian Statisticians and Vidzeme University of Applied Sciences.</p>
+
+<h2>Organising Committee</h2>
+
+<ul>
+	<li>Andris Fisenko (Central Statistical Bureau of Latvia)</li>
+	<li>Jānis Lapiņš (Bank of Latvia)</li>
+	<li>Mārtiņš Liberts (Central Statistical Bureau of Latvia, chair)</li>
+	<li>Inta Priedola (TNS Latvia)</li>
+	<li>Biruta Sloka (University of Latvia)</li>
+</ul>
+
+<h2>Programme committee</h2>
+
+<ul>
+	<li>Danute Krapavickaite, (Vilnius Gediminas Technical University, Statistics Lithuania)</li>
+	<li>Gunnar Kulldorff (University of Umeå)</li>
+	<li>Jānis Lapiņš (Bank of Latvia)</li>
+	<li>Risto Lehtonen (University of Helsinki, chair)</li>
+	<li>Mārtiņš Liberts (Central Statistical Bureau of Latvia)</li>
+	<li>Aleksandras Plikusas (Institute of Mathematics and Informatics; Vilnius University)</li>
+	<li>Daniel Thorburn (University of Stockholm)</li>
+	<li>Imbi Traat (University of Tartu)</li>
+	<li>Olga Vasylyk (National Taras Shevchenko University of Kyiv)</li>
+</ul>
+
+<h1>Sponsors</h1>
+
+<ul>
+	<li>The Nordplus Programme of the Nordic Council of Ministers</li>
+	<li><a href="http://isi.cbs.nl/iass/" target="_blank">International Association of Survey Statisticians (IASS)</a></li>
+	<li><a href="http://www.csb.gov.lv/en" target="_blank">Central Statistical Bureau of Latvia</a></li>
+</ul>
+
+<!--#include virtual="footer.shtml" -->
