@@ -2,38 +2,52 @@
 
 <h1>Organisers</h1>
 
-<p>The workshop is locally organised by the Central Statistical Bureau of Latvia, University of Latvia, Association of Latvian Statisticians and Vidzeme University of Applied Sciences.</p>
+<div id="top_logos">
+<table class="logos">
+	<tbody>
+		<tr>
+			<td><img src="pic/CSB-logo.jpg"></td>
+			<td><img src="pic/LU-logo.jpg"></td>
+			<td><img src="pic/LLU-logo.jpg"></td>
+		</tr>
+		<tr>
+			<td><a href="http://www.csb.gov.lv/en" target="_blank">Central Statistical Bureau of Latvia</a></td>
+			<td><a href="https://www.bvef.lu.lv/eng/" target="_blank">Faculty of Business, Management and Economics</a>
+			<br>(<a href="https://www.lu.lv/eng/" target="_blank">University of Latvia</a>)</td>
+			<td><a href="http://www.llu.lv/en/faculty-of-economics-and-social-development" target="_blank">Faculty of Economics and Social Development</a>
+			<br>(<a href="http://www.llu.lv/en/" target="_blank">Latvia University of Agriculture</a>)</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 <h2>Organising Committee</h2>
 
 <ul>
-	<li>Andris Fisenko (Central Statistical Bureau of Latvia)</li>
+	<li>Signe Bāliņa (University of Latvia)</li>
+	<li>Laura Jozefa (Central Statistical Bureau of Latvia)</li>
 	<li>Jānis Lapiņš (Bank of Latvia)</li>
 	<li>Mārtiņš Liberts (Central Statistical Bureau of Latvia, chair)</li>
-	<li>Inta Priedola (TNS Latvia)</li>
-	<li>Biruta Sloka (University of Latvia)</li>
+	<li>Markus Gintas Šova (Office for National Statistics, United Kingdom)</li>
+	<li>Zane Vītoliņa (Latvia University of Agriculture)</li>
 </ul>
 
-<h2>Programme committee</h2>
+<h2>Programme Committee</h2>
 
 <ul>
-	<li>Danute Krapavickaite, (Vilnius Gediminas Technical University, Statistics Lithuania)</li>
-	<li>Gunnar Kulldorff (University of Umeå)</li>
-	<li>Jānis Lapiņš (Bank of Latvia)</li>
-	<li>Risto Lehtonen (University of Helsinki, chair)</li>
-	<li>Mārtiņš Liberts (Central Statistical Bureau of Latvia)</li>
-	<li>Aleksandras Plikusas (Institute of Mathematics and Informatics; Vilnius University)</li>
-	<li>Daniel Thorburn (University of Stockholm)</li>
-	<li>Imbi Traat (University of Tartu)</li>
-	<li>Olga Vasylyk (National Taras Shevchenko University of Kyiv)</li>
-</ul>
-
-<h1>Sponsors</h1>
-
-<ul>
-	<li>The Nordplus Programme of the Nordic Council of Ministers</li>
-	<li><a href="http://isi.cbs.nl/iass/" target="_blank">International Association of Survey Statisticians (IASS)</a></li>
-	<li><a href="http://www.csb.gov.lv/en" target="_blank">Central Statistical Bureau of Latvia</a></li>
+	<li>Natallia Bokun (Belarus)</li>
+	<li>Tetiana Ianevych (Ukraine)</li>
+	<li>Danutė Krapavickaitė (Lithuania)</li>
+	<li>Thomas Laitila (Sweden, chair)</li>
+	<li>Jānis Lapiņš (Latvia)</li>
+	<li>Risto Lehtonen (Finland)</li>
+	<li>Natalja Lepik (Estonia)</li>
+	<li>Mārtiņš Liberts (Latvia)</li>
+	<li>Inga Masiulaitytė-Šukevič (Lithuania)</li>
+	<li>Kaja Sõstra (Estonia)</li>
+	<li>Imbi Traat (Estonia)</li>
+	<li>Maria Valaste (Finland)</li>
+	<li>Olga Vasylyk (Ukraine)</li>
 </ul>
 
 <!--#include virtual="footer.shtml" -->

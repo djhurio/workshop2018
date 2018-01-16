@@ -77,6 +77,7 @@ table.general td {
 	border: 1px solid #006600;
 	height: 30px;
 	padding: 10px;
+	text-align: left;
 }
 
 table.logos {

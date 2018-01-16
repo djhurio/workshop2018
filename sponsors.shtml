@@ -1,0 +1,24 @@
+<!--#include virtual="header.shtml" -->
+
+<h1>Sponsors</h1>
+
+<div id="top_logos">
+<table class="logos">
+	<tbody>
+		<tr>
+			<td><img src="pic/IASS-logo.png"></td>
+			<td><img src="pic/Nordplus-logo.png"></td>
+			<td><img src="pic/CSB-logo.jpg"></td>
+		</tr>
+		<tr>
+			<td><a href="http://isi-iass.org/" target="_blank">International Association of Survey Statisticians</a>
+			<br>(<a href="https://www.isi-web.org/" target="_blank">International Statistical Institute</a>)</td>
+			<td><a href="http://www.nordplusonline.org/Who-can-apply/Nordplus-Higher-Education" target="_blank">Nordplus Higher Education program</a>
+			<br>(<a href="http://www.norden.org/en/nordic-council-of-ministers" target="_blank">Nordic Council of Ministers</a>)</td>
+			<td><a href="http://www.csb.gov.lv/en" target="_blank">Central Statistical Bureau of Latvia</a></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<!--#include virtual="footer.shtml" -->

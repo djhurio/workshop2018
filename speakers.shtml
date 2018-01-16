@@ -1,0 +1,37 @@
+<!--#include virtual="header.shtml" -->
+
+<h1>Speakers</h1>
+
+<h2>Keynote Speakers</h2>
+
+<table class="general">
+<col width="40%">
+<col width="50%">
+<col width="10%">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Lecture Title</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Prof. <b>Li-Chun Zhang</b> (<a href="https://www.southampton.ac.uk/demography/about/staff/lz1n11.page" target="_blank">University of Southampton</a>, <a href="https://www.ssb.no/en/forskning/ansatte/li-chun-zhang" target="_blank">Statistics Norway)</a></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td><b><a href="https://www.linkedin.com/in/anders-holmberg-a658aa9/" target="_blank">Anders Holmberg</a></b> (Statistics Norway)</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Prof. <b><a href="https://scholar.google.com/citations?user=FuVl6vkAAAAJ&hl=sv" target="_blank">Carl-Erik Särndal</a></b> (Sweden)</td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
+<!--#include virtual="footer.shtml" -->
