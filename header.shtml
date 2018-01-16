@@ -16,9 +16,9 @@
 <table class="logos">
 	<tbody>
 		<tr>
-			<td><img src="pic/CSB-logo.jpg"></td>
-			<td><img src="pic/LU-logo.jpg"></td>
-			<td><img src="pic/LLU-logo.jpg"></td>
+			<td><img src="pic/CSB-logo.jpg" alt="CSB logo"></td>
+			<td><img src="pic/LU-logo.jpg" alt="LU logo"></td>
+			<td><img src="pic/LLU-logo.jpg" alt="LLU logo"></td>
 		</tr>
 	</tbody>
 </table>

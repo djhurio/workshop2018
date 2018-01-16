@@ -2,13 +2,13 @@
 
 <h1>Sponsors</h1>
 
-<div id="top_logos">
+<div id="logos">
 <table class="logos">
 	<tbody>
 		<tr>
-			<td><img src="pic/IASS-logo.png"></td>
-			<td><img src="pic/Nordplus-logo.png"></td>
-			<td><img src="pic/CSB-logo.jpg"></td>
+			<td><img src="pic/IASS-logo.png" alt="IASS logo"></td>
+			<td><img src="pic/Nordplus-logo.png" alt="Nordplus logo"></td>
+			<td><img src="pic/CSB-logo.jpg" alt="CSB logo"></td>
 		</tr>
 		<tr>
 			<td><a href="http://isi-iass.org/" target="_blank">International Association of Survey Statisticians</a>
