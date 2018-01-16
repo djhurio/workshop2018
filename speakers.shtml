@@ -10,9 +10,9 @@
 <col width="10%">
 	<thead>
 		<tr>
-			<th>Name</th>
+			<th>Speaker</th>
 			<th>Lecture Title</th>
-			<th></th>
+			<th>Lecture Slides</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -26,6 +26,23 @@
 			<td></td>
 			<td></td>
 		</tr>
+	</tbody>
+</table>
+
+<h2>Invited Speakers</h2>
+
+<table class="general">
+<col width="40%">
+<col width="50%">
+<col width="10%">
+	<thead>
+		<tr>
+			<th>Speaker</th>
+			<th>Lecture Title</th>
+			<th>Lecture Slides</th>
+		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Prof. <b><a href="https://scholar.google.com/citations?user=FuVl6vkAAAAJ" target="_blank">Carl-Erik Särndal</a></b> (Sweden)</td>
 			<td></td>
