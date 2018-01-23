@@ -1,0 +1,53 @@
+<!--#include virtual="header.shtml" -->
+
+<h1>Registration</h1>
+
+<h2>Invitations</h2>
+
+The participation at the workshop is invitation based. Please contact your country representative or <a href="organisers.shtml">workshop organisers</a> to get the invitation to the workshop.
+
+
+<h2>Country Representatives</h2>
+
+<table class="small" width="50%">
+<col width="30%">
+<col width="70%">
+	<thead>
+		<tr>
+			<th>Country</th>
+			<th>Representatives</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Belarus</td>
+			<td>Natalia Bokun</td>
+		</tr>
+		<tr>
+			<td>Estonia</td>
+			<td>Natalja Lepik, Kaja Sõstra, Imbi Traat</td>
+		</tr>
+		<tr>
+			<td>Finland</td>
+			<td>Risto Lehtonen, Maria Valaste</td>
+		</tr>
+		<tr>
+			<td>Latvia</td>
+			<td>Jānis Lapiņš, Mārtiņš Liberts</td>
+		</tr>
+		<tr>
+			<td>Lithuania</td>
+			<td>Danutė Krapavickaitė, Inga Masiulaitytė-Šukevič</td>
+		</tr>
+		<tr>
+			<td>Sweden</td>
+			<td>Thomas Laitila</td>
+		</tr>
+		<tr>
+			<td>Ukraine</td>
+			<td>Tetiana Ianevych, Olga Vasylyk</td>
+		</tr>
+	</tbody>
+</table>
+
+<!--#include virtual="footer.shtml" -->

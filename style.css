@@ -86,6 +86,25 @@ table.general td {
 	text-align: left;
 }
 
+table.small {
+	border: 1px solid #006600;
+	border-collapse: collapse;
+}
+
+table.small th {
+	border: 1px solid #006600;
+	height: 30px;
+	padding: 10px;
+	text-align: center;
+}
+
+table.small td {
+	border: 1px solid #006600;
+	height: 30px;
+	padding: 10px;
+	text-align: left;
+}
+
 table.logos {
 	border: none;
 	border-collapse: collapse;
