@@ -10,34 +10,59 @@ The main topic of the workshop is <b>Population census based on administrative d
 
 Other topics related to survey statistics are welcome to be presented as lectures or contributed papers, for example:
 <ul>
-	<li>Bayesian methods</li>
-	<li>Big data, methods and applications</li>
-	<li>Business survey methodology</li>
-	<li>Calibration techniques</li>
-	<li>Combining data from surveys and registers, record linkage, data fusion</li>
-	<li>Data editing and imputation techniques</li>
-	<li>Demography</li>
-	<li>Design and analysis of complex surveys</li>
-	<li>Design and estimation strategies using auxiliary data</li>
-	<li>Estimation in the presence of non-response</li>
-	<li>Longitudinal and panel surveys</li>
-	<li>Measurement errors in surveys</li>
-	<li>Multilevel and hierarchical modelling of survey data</li>
-	<li>Non-parametric methods in survey statistics</li>
-	<li>Poverty mapping</li>
-	<li>Questionnaire design and testing</li>
-	<li>Register based statistics</li>
-	<li>Sampling design</li>
-	<li>Small area estimation</li>
-	<li>Software for survey sampling and analysis</li>
-	<li>Statistical disclosure control methods</li>
-	<li>Survey data mining</li>
-	<li>Survey methodology</li>
+	<li>Model-based and non-parametric methods:
+		<ul>
+			<li>Bayesian methods</li>
+			<li>Multilevel and hierarchical modelling of survey data</li>
+			<li>Non-parametric methods in survey statistics</li>
+			<li>Poverty mapping</li>
+			<li>Small area estimation</li>
+		</ul>
+	</li>
+	<li>Non-response and non-sampling errors in surveys:
+		<ul>
+			<li>Data editing and imputation techniques</li>
+			<li>Estimation in the presence of non-response</li>
+			<li>Measurement errors in surveys</li>
+		</ul>
+	</li>
+	<li>Sampling design and estimation methods:
+		<ul>
+			<li>Sampling design</li>
+			<li>Variance estimation</li>
+			<li>Weighting strategies</li>
+			<li>Design and analysis of complex surveys</li>
+			<li>Design and estimation strategies using auxiliary data</li>
+			<li>Software for survey sampling and analysis</li>
+			<li>Calibration techniques</li>
+		</ul>
+	</li>
+	<li>Combining data from registers, surveys and associated methods:
+		<ul>
+			<li>Register based statistics</li>
+			<li>Combining data from surveys and registers, record linkage, data fusion</li>
+		</ul>
+	</li>
+	<li>Use of big data, web and internet surveys:
+		<ul>
+			<li>Survey data mining</li>
+			<li>Web surveys</li>
+			<li>Big data, methods and applications</li>
+		</ul>
+	</li>
+	<li>Survey methodology:
+		<ul>
+			<li>Business survey methodology</li>
+			<li>Demography</li>
+			<li>Longitudinal and panel surveys</li>
+			<li>Questionnaire design and testing</li>
+			<li>Statistical disclosure control methods</li>
+		</ul>
+	</li>
 	<li>Teaching of survey statistics</li>
-	<li>Variance estimation</li>
-	<li>Web surveys</li>
-	<li>Weighting strategies</li>
 </ul>
+
+
 
 
 
