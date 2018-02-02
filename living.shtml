@@ -1,0 +1,65 @@
+<!--#include virtual="header.shtml" -->
+
+<h1>Living</h1>
+
+<table class="general">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Information</th>
+			<th>Address (click on address to see a map)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<tr>
+				<td>University Dormitory No. 8</td>
+				<td><a href="http://www.llu.lv/en/accomodation" target="_blank">homepage</td>
+				<td><a href="https://goo.gl/maps/vrridLHdR952" target="_blank">Lielā iela 19, Jelgava</td>
+			</tr>
+			<td>Hotel "Jelgava"</td>
+			<td><a href="http://www.hoteljelgava.lv/?ln=en" target="_blank">homepage</a>,
+					<a href="https://www.booking.com/hotel/lv/jelgava.en-gb.html" target="_blank">booking.com</a>,
+					<a href="https://www.tripadvisor.com/Hotel_Review-g277825-d547757-Reviews-Hotel_Jelgava-Jelgava_Zemgale_Region.html" target="_blank">tripadvisor.com</a></td>
+			<td><a href="https://goo.gl/maps/NywiRb9dhPu" target="_blank">Lielā iela 6, Jelgava</a></td>
+		</tr>
+		<tr>
+			<td>Hotel "Zemgale"</td>
+			<td><a href="http://skzemgale.lv/en/hotel-in-jelgava/" target="_blank">homepage</a>,
+					<a href="https://www.booking.com/hotel/lv/zemgale.en-gb.html" target="_blank">booking.com</a>,
+					<a href="https://www.tripadvisor.com/Hotel_Review-g277825-d2462907-Reviews-Zemgale-Jelgava_Zemgale_Region.html" target="_blank">tripadvisor.com</a></td>
+			<td><a href="https://goo.gl/maps/8jpmUoGsrtt" target="_blank">Skautu iela 2, Jelgava</a></td>
+		</tr>
+	</tbody>
+</table>
+
+
+<h2>University Dormitory No. 8</h2>
+
+<ul>
+	<li>Twin rooms are available for single or double use.</li>
+	<li>Price per room, per night is 30.00 €.</li>
+	<li>A bathroom and fridge in each room.</li>
+	<li>Kitchen in combination with lounge on each floor.</li>
+	<li>Very close to the workshop venue (200 m).</li>
+	<li>Served breakfast is not available. Breakfast will be organised in the university cafeteria (the workshop venue) for additional price.</li>
+	<li>Reservation of rooms will be done by the workshop organisers.</li>
+</ul>
+
+
+<h2>Hotel "Jelgava"</h2>
+
+<ul>
+	<li>In a walking distance to the workshop venue (1 km).</li>
+	<li>Reservation has to be done by participants. Please use the keyword <b>BNU2018</b> on the registration form (in comments)</li>
+</ul>
+
+
+<h2>Hotel "Zemgale"</h2>
+
+<ul>
+	<li>Located 2.3 km from the workshop venue. Public transport is available.</li>
+	<li>Reservation has to be done by participants. Please use the keyword <b>BNU2018</b> on the registration form (in comments)</li>
+</ul>
+
+<!--#include virtual="footer.shtml" -->
