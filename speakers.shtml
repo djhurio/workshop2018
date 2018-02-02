@@ -11,20 +11,18 @@
 	<thead>
 		<tr>
 			<th>Speaker</th>
-			<th>Lecture Title</th>
+			<th>Lecture Title (preliminary)</th>
 			<th>Lecture Slides</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>Prof. <b>Li-Chun Zhang</b> (<a href="https://www.southampton.ac.uk/demography/about/staff/lz1n11.page" target="_blank">University of Southampton</a>, <a href="https://www.ssb.no/en/forskning/ansatte/li-chun-zhang" target="_blank">Statistics Norway)</a></td>
-			<td></td>
-			<td></td>
+			<td rowspan="2">Population census and administrative data</td>
+			<td rowspan="2"></td>
 		</tr>
 		<tr>
 			<td>Dr. <b><a href="https://www.linkedin.com/in/anders-holmberg-a658aa9/" target="_blank">Anders Holmberg</a></b> (Statistics Norway)</td>
-			<td></td>
-			<td></td>
 		</tr>
 	</tbody>
 </table>
@@ -38,24 +36,29 @@
 	<thead>
 		<tr>
 			<th>Speaker</th>
-			<th>Lecture Title</th>
+			<th>Lecture Title (preliminary)</th>
 			<th>Lecture Slides</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>Dr. <b><a href="http://ue.poznan.pl/en/dr-maciej-beresewicz,a38052.html" target="_blank">Maciej Beręsewicz</a></b> (Poznań University of Economics and Business, Poland)</td>
-			<td></td>
+			<td>An overview of methods for treating selectivity in big data sources</td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>Mag. <b><a href="https://www.researchgate.net/profile/Manuela_Lenk" target="_blank">Manuela Lenk</a></b> (Statistics Austria)</td>
+			<td>Quality assessment of the annually Austrian register-based Census</td>
 			<td></td>
+		</tr>
+		<tr>
+			<td>Dr. <b><a href="https://www.linkedin.com/in/melike-oguz-alper-40447262/" target="_blank">Melike Oguz Alper</a></b> (Statistics Norway)</td>
+			<td>Sampling and estimation in finite networks</td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>Prof. <b><a href="https://scholar.google.com/citations?user=FuVl6vkAAAAJ" target="_blank">Carl-Erik Särndal</a></b> (Sweden)</td>
-			<td></td>
+			<td>TBA</td>
 			<td></td>
 		</tr>
 	</tbody>
