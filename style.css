@@ -7,11 +7,11 @@ body {
 	text-align: justify;
 	font-family: Verdana, Arial, Helvetica, Sans-Serif;
 	font-size: 14px;
+	background-color: #FFFFFF;
 }
 
 h1 {
 	color: #006600;
-	background-color: #FFFFFF;
 	margin-top: 30px;
 }
 
