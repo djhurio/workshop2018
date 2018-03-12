@@ -51,16 +51,26 @@
 <h2>Hotel "Jelgava"</h2>
 
 <ul>
-	<li>In a walking distance to the workshop venue (1 km).</li>
-	<li>Reservation has to be done by participants. Please use the keyword <b>BNU2018</b> on the registration form (in comments)</li>
+	<li>Hotel "Jelgava" is located in a walking distance (950 m) to the workshop venue (<a href="https://goo.gl/maps/8Gsm75LhJb42" target="_blank">directions</a>).</li>
+	<li>Reservation of rooms has to be done by participants:
+		<ul>
+			<li>Do the reservation from <a href="http://www.hoteljelgava.lv/?ln=en" target="_blank">the hotel website</a>.</li>
+			<li>Use the keyword <b>BNU2018</b> on the registration form (in comments)</li>
+		</ul>
+	</li>
 </ul>
 
 
 <h2>Hotel "Zemgale"</h2>
 
 <ul>
-	<li>Located 2.3 km from the workshop venue. Public transport is available.</li>
-	<li>Reservation has to be done by participants. Please use the keyword <b>BNU2018</b> on the registration form (in comments)</li>
+	<li>Hotel "Zemgale" is located 2.5 km from the workshop venue (<a href="https://goo.gl/maps/baeGya4PYY42" target="_blank">directions</a>). Public transport is available.</li>
+	<li>Reservation of rooms has to be done by participants:
+		<ul>
+			<li>Do the reservation from <a href="http://skzemgale.lv/en/hotel-in-jelgava/" target="_blank">the hotel website</a>.</li>
+			<li>Use the keyword <b>BNU2018</b> on the registration form (in comments)</li>
+		</ul>
+	</li>
 </ul>
 
 <!--#include virtual="footer.shtml" -->
