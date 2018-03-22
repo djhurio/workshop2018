@@ -21,14 +21,21 @@
 			<td><a href="http://www.hoteljelgava.lv/?ln=en" target="_blank">homepage</a>,
 					<a href="https://www.booking.com/hotel/lv/jelgava.en-gb.html" target="_blank">booking.com</a>,
 					<a href="https://www.tripadvisor.com/Hotel_Review-g277825-d547757-Reviews-Hotel_Jelgava-Jelgava_Zemgale_Region.html" target="_blank">tripadvisor.com</a></td>
-			<td><a href="https://goo.gl/maps/NywiRb9dhPu" target="_blank">Lielā iela 6, Jelgava</a></td>
+			<td><a href="https://goo.gl/maps/NywiRb9dhPu" target="_blank">Lielā iela 6, Jelgava</a> (<a href="https://goo.gl/maps/8Gsm75LhJb42" target="_blank">directions</a>)</td>
 		</tr>
 		<tr>
 			<td>Hotel "Zemgale"</td>
 			<td><a href="http://skzemgale.lv/en/hotel-in-jelgava/" target="_blank">homepage</a>,
 					<a href="https://www.booking.com/hotel/lv/zemgale.en-gb.html" target="_blank">booking.com</a>,
 					<a href="https://www.tripadvisor.com/Hotel_Review-g277825-d2462907-Reviews-Zemgale-Jelgava_Zemgale_Region.html" target="_blank">tripadvisor.com</a></td>
-			<td><a href="https://goo.gl/maps/8jpmUoGsrtt" target="_blank">Skautu iela 2, Jelgava</a></td>
+			<td><a href="https://goo.gl/maps/8jpmUoGsrtt" target="_blank">Skautu iela 2, Jelgava</a> (<a href="https://goo.gl/maps/baeGya4PYY42" target="_blank">directions</a>)</td>
+		</tr>
+		<tr>
+			<td>Hostel "Jelgava"</td>
+			<td><a href="http://www.jlghostel.lv/en-gb" target="_blank">homepage</a>,
+					<a href="https://www.booking.com/hotel/lv/jlg-hostel.en-gb.html" target="_blank">booking.com</a>,
+					<a href="https://www.tripadvisor.com/Hotel_Review-g277825-d10036053-Reviews-JLG_Hostel-Jelgava_Zemgale_Region.html" target="_blank">tripadvisor.com</a></td>
+			<td><a href="https://goo.gl/maps/jb4VTiAmQJ32" target="_blank">Dobeles Sošeja 36, Jelgava</a> (<a href="https://goo.gl/maps/zhXwNJKRG7x" target="_blank">directions</a>)</td>
 		</tr>
 	</tbody>
 </table>
@@ -72,5 +79,24 @@
 		</ul>
 	</li>
 </ul>
+
+<h2>Hostel "Jelgava"</h2>
+
+<ul>
+	<li>Hostel "Zemgale" is located 1.6 km from the workshop venue (<a href="https://goo.gl/maps/zhXwNJKRG7x" target="_blank">directions</a>).</li>
+	<li>Reservation of rooms has to be done by participants.</li>
+</ul>
+
+<h2>Other Options</h2>
+
+<ul>
+	<li>You can find also other accommodation options, for example apartments:
+		<ul>
+			<li><a href="https://www.booking.com/searchresults.en-gb.html?lang=en-gb&city=-3209031&checkin_monthday=20&checkin_month=8&checkin_year=2018&checkout_monthday=24&checkout_month=8&checkout_year=2018" target="_blank">www.booking.com</a></li>
+			<li><a href="https://www.airbnb.com/s/Jelgava--Latvia/homes?checkin=2018-08-20&checkout=2018-08-24" target="_blank">www.airbnb.com</a></li>
+		</ul>
+	</li>
+</ul>
+
 
 <!--#include virtual="footer.shtml" -->

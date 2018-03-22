@@ -12,7 +12,7 @@
 		<tr>
 			<th>Speaker</th>
 			<th>Lecture Title (preliminary)</th>
-			<th>Lecture Slides</th>
+			<th>Lecture Material</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -37,7 +37,7 @@
 		<tr>
 			<th>Speaker</th>
 			<th>Lecture Title (preliminary)</th>
-			<th>Lecture Slides</th>
+			<th>Lecture Material</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -58,8 +58,8 @@
 		</tr>
 		<tr>
 			<td>Prof. <b><a href="https://scholar.google.com/citations?user=FuVl6vkAAAAJ" target="_blank">Carl-Erik Särndal</a></b> (Sweden)</td>
-			<td>Changing conditions for official statistics and National Statistical Institutes:  Is a new scientific basis emerging?</td>
-			<td></td>
+			<td>Comments on the development of Survey Statistics theory and practice in the last fifty years; some personal reflections</td>
+			<td><a href="papers/BNU2018-IL-Carl-Erik-Sarndal.pdf">Abstract</a></td>
 		</tr>
 	</tbody>
 </table>
