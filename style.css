@@ -182,3 +182,7 @@ table.logos td {
 .italic {
 	font-style: italic;
 }
+
+strong {
+    color: red;
+}
