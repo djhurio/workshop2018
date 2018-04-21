@@ -131,7 +131,8 @@ table.logos {
 
 table.logos td {
 	border: none;
-	width: 20%;
+	padding: 20px;
+	width: 16%;
 }
 
 .right {
