@@ -15,7 +15,8 @@
 <p>Please use provided templates for abstracts and papers to be published. There are templates for LaTeX and Microsoft Word:</p>
 
 <ul>
-	<li><a href="templates/BNU2018-paper-template-tex.7z">LaTeX template</a></li>
+	<li><a href="templates/BNU2018-paper-template-tex.7z">LaTeX template (local files)</a></li>
+	<li><a href="https://www.sharelatex.com/read/rbxqtymnrgdw" target="_blank">LaTeX template (ShareLaTeX online editor)</a></li>
 	<li><a href="templates/BNU2018-paper-template.dotx">Microsoft Word template</a></li>
 </ul>
 
