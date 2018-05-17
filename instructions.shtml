@@ -1,0 +1,37 @@
+<!--#include virtual="header.shtml" -->
+
+<h1>Instructions for Speakers</h1>
+
+<h2>Lectures</h2>
+
+<p>Main and invited lecturers are invited to publish their material (abstract or paper) of the lectures in the workshop publication. This is not mandatory. Please send your abstract or paper if you wish it to be included in the workshop publication till <strong>17 June 2018</strong> by e-mail to <a href="mailto:BNU2018@csb.gov.lv">BNU2018@csb.gov.lv</a>.</p>
+
+<h2>Contributed Papers</h2>
+
+<p>Participants presenting a contributed paper are kindly asked to submit a paper. A paper should be maximum 4 pages long. This is necessary because a discussant will be assigned to each contributed paper. A paper will help a discussant to prepare in advance for a discussion. The collection of contributed papers will be published by the organisers before the workshop. Please send your contributed paper to be included in the workshop publication till <strong>17 June 2018</strong> by e-mail to <a href="mailto:BNU2018@csb.gov.lv">BNU2018@csb.gov.lv</a>.</p>
+
+<h2>Templates for Abstracts and Papers</h2>
+
+<p>Please use provided templates for abstracts and papers to be published. There are templates for LaTeX and Microsoft Word:</p>
+
+<ul>
+	<li><a href="templates/BNU2018-paper-template-tex.7z">LaTeX template</a></li>
+	<li><a href="templates/BNU2018-paper-template.dotx">Microsoft Word template</a></li>
+</ul>
+
+<h2>Auditorium</h2>
+
+The main auditorium of the workshop will be equipped with a computer, a projector, and a blackboard.
+
+<div id="logos">
+<table class="logos">
+	<tbody>
+		<tr>
+			<td><img src="pic/LLU-ESAF-auditorium1.jpg" alt="Auditorium 1"></td>
+			<td><img src="pic/LLU-ESAF-auditorium2.jpg" alt="Auditorium 2"></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<!--#include virtual="footer.shtml" -->
