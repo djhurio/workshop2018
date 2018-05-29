@@ -42,25 +42,79 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td>Dr. <b><a href="http://ue.poznan.pl/en/dr-maciej-beresewicz,a38052.html" target="_blank">Maciej Beręsewicz</a></b> (Poznań University of Economics and Business, Poland)</td>
+			<td><b><a href="http://ue.poznan.pl/en/dr-maciej-beresewicz,a38052.html" target="_blank">Maciej Beręsewicz</a></b> (Poznań University of Economics and Business, Poland)</td>
 			<td>An overview of methods for treating selectivity in big data sources</td>
 			<td></td>
 		</tr>
+		<tr> <td> Natallia Bokun (Belarus State Economic University) </td> <td> Tourism surveys in Belarus </td> <td>  </td> </tr>
+	  <tr> <td> Juris Breidaks (Central Statistical Bureau of Latvia) </td> <td> EU-SILC Indicators Variance Estimation Using Smoothing Splines and Gaussian Kernel Estimation in R Package vardpoor </td> <td>  </td> </tr>
+	  <tr> <td> Julia Hellstrand (University of Helsinki/ Statistics Finland) </td> <td> All-time low period fertility in Finland: tempo or quantum effect? </td> <td>  </td> </tr>
 		<tr>
-			<td>Mag. <b><a href="https://www.researchgate.net/profile/Manuela_Lenk" target="_blank">Manuela Lenk</a></b> (Statistics Austria)</td>
+			<td><b><a href="https://www.researchgate.net/profile/Manuela_Lenk" target="_blank">Manuela Lenk</a></b> (Statistics Austria)</td>
 			<td>Quality assessment of the annually Austrian register-based Census</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Dr. <b><a href="https://www.linkedin.com/in/melike-oguz-alper-40447262/" target="_blank">Melike Oguz Alper</a></b> (Statistics Norway)</td>
+			<td><b><a href="https://www.linkedin.com/in/melike-oguz-alper-40447262/" target="_blank">Melike Oguz Alper</a></b> (Statistics Norway)</td>
 			<td>Sampling and estimation in finite networks</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Prof. <b><a href="https://scholar.google.com/citations?user=FuVl6vkAAAAJ" target="_blank">Carl-Erik Särndal</a></b> (Statistics Sweden)</td>
+			<td><b><a href="https://scholar.google.com/citations?user=FuVl6vkAAAAJ" target="_blank">Carl-Erik Särndal</a></b> (Statistics Sweden)</td>
 			<td>Comments on the development of Survey Statistics theory and practice in the last fifty years; some personal reflections</td>
 			<td><a href="papers/BNU2018-IL-Carl-Erik-Sarndal.pdf">Abstract</a></td>
 		</tr>
+	</tbody>
+</table>
+
+
+<h2>Contributed Papers</h2>
+
+<table class="general">
+<col width="40%">
+<col width="50%">
+<col width="10%">
+	<thead>
+		<tr>
+			<th>Speaker</th>
+			<th>Paper Title (preliminary)</th>
+			<th>Paper Material</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr> <td> Rasa Beržvinskaitė (Statistics Lithuania) </td> <td> Application of the Ranked Set Sampling to Agricultural Data </td> <td>  </td> </tr>
+	  <tr> <td> Anastacia Bobrova (Institute of Economics of National Academy of sciences of Belarus) </td> <td> TBA </td> <td>  </td> </tr>
+	  <tr> <td> Andris Fisenko (Bank of Latvia) </td> <td> Use of Register Data in Latvian Household Finance and Consumption Survey (joint paper with Janis Lapins) </td> <td>  </td> </tr>
+	  <tr> <td> Yuliia Halytsia (Taras Shevchenko National University of Kyiv) </td> <td> TBA </td> <td>  </td> </tr>
+	  <tr> <td> Miika Honkala (Statistics Finland) </td> <td> Estimation of response propensities using the previous survey </td> <td>  </td> </tr>
+	  <tr> <td> Tetiana Ianevych (Taras Shevchenko National University of Kyiv) </td> <td> TBA </td> <td>  </td> </tr>
+	  <tr> <td> Julija Janeiko (Vilnius Gediminas Technical University) </td> <td> Coherence studies in time series (joint paper with Vytautas Pankūnas) </td> <td>  </td> </tr>
+	  <tr> <td> Inguna Jurgelane-Kaldava (Riga Technical University) </td> <td> Correlation between Logistics and Higher Education in Latvia </td> <td>  </td> </tr>
+	  <tr> <td> Viktoria Kirpu (University of Tartu) </td> <td> Implementation of imputation methods (initial title) </td> <td>  </td> </tr>
+	  <tr> <td> Danutė Krapavickaitė (Vilnius Gediminas Technical University) </td> <td> TBA </td> <td>  </td> </tr>
+	  <tr> <td> Seppo Laaksonen (University of Helsinki) </td> <td> Imputation methods for income </td> <td>  </td> </tr>
+	  <tr> <td> Thomas Laitila (Örebro University, Sweden) </td> <td> TBA </td> <td>  </td> </tr>
+	  <tr> <td> Janis Lapins (Bank of Latvia) </td> <td> Use of Register Data in Latvian Household Finance and Consumption Survey (joint paper with Andris Fisenko) </td> <td>  </td> </tr>
+	  <tr> <td> Mārtiņš Liberts (Central Statistical Bureau of Latvia) </td> <td> Population Estimation Beyond 2021 </td> <td>  </td> </tr>
+	  <tr> <td> Vytautas Pankūnas (Vilnius Gediminas Technical University) </td> <td> Coherence studies in time series (joint paper with Julija Janeiko) </td> <td>  </td> </tr>
+	  <tr> <td> Oona Pentala-Nikulainen (Helsinki University) </td> <td> TBA </td> <td>  </td> </tr>
+	  <tr> <td> Andrei Piliutsik (Institute of Economics of National Academy of sciences of Belarus) </td> <td> TBA </td> <td>  </td> </tr>
+	  <tr> <td> Iryna Rozora (Taras Shevchenko National University of Kyiv) </td> <td> TBA </td> <td>  </td> </tr>
+	  <tr> <td> Natalia Rozora (Nielsen) </td> <td> TBA </td> <td>  </td> </tr>
+	  <tr> <td> Natallia Sakovich (Belarus State Economic University) </td> <td> Tourist Incomes and Expenditures Surveys in Belarus </td> <td>  </td> </tr>
+	  <tr> <td> Volodymyr Sarioglo (Ptoukha Institute for Demography and Social Studies) </td> <td> Sample Weights Calibration with Aim to Reduce the Estimation Bias Due to Under Coverage of the Well-Off Population </td> <td>  </td> </tr>
+	  <tr> <td> Veronika Serhiienko (Taras Shevchenko National University of Kyiv) </td> <td> TBA </td> <td>  </td> </tr>
+	  <tr> <td> Elvijs Siliņš (Central Statistical Bureau of Latvia) </td> <td> TBA </td> <td>  </td> </tr>
+	  <tr> <td> Alina Sinisalo (Natural Resources Institute Finland (Luke)) </td> <td> TBA </td> <td>  </td> </tr>
+	  <tr> <td> Milda Slickute-Sestokiene (Statistics Lithuania) </td> <td> Preparation for register-based census </td> <td>  </td> </tr>
+	  <tr> <td> Biruta Sloka (University of Latvia) </td> <td> Challenges for Data Analysis for Public Administrators </td> <td>  </td> </tr>
+	  <tr> <td> Diana Sokurova (University of Tartu) </td> <td> The Local Pivotal Method and its Application on StatVillage Data </td> <td>  </td> </tr>
+	  <tr> <td> Mykola Sydorov (Taras Shevchenko National University of Kyiv) </td> <td> TBA </td> <td>  </td> </tr>
+	  <tr> <td> Kaja Sõstra (Statistics Estonia) </td> <td> Using mobile positioning for improving the quality of register data. </td> <td>  </td> </tr>
+	  <tr> <td> Maria Valaste (University of Helsinki) </td> <td> TBA </td> <td>  </td> </tr>
+	  <tr> <td> Olga Vasylyk (Taras Shevchenko National University of Kyiv) </td> <td> Modelling of survey data </td> <td>  </td> </tr>
+	  <tr> <td> Peteris Vegis (Central Statistical Bureau of Latvia) </td> <td> Population Census 2021 in Latvia (provisional title) </td> <td>  </td> </tr>
+	  <tr> <td> Markus Gintas Šova (Office for National Statistics) </td> <td> Rethinking Sampling for UK Business Surveys </td> <td>  </td> </tr>
 	</tbody>
 </table>
 
