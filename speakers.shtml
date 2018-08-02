@@ -53,7 +53,7 @@
 		</tr>
 	  <tr>
 			<td> <b><a href="https://www.linkedin.com/in/juris-breidaks/" target="_blank">Juris Breidaks</a></b> (Central Statistical Bureau of Latvia) </td>
-			<td> EU-SILC Indicators Variance Estimation Using Smoothing Splines and Gaussian Kernel Estimation in R Package vardpoor </td>
+			<td> At-risk-of-poverty theshold variance estimations using Gaussian kernel and smoothing splines in R package vardpoor </td>
 			<td>  </td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@
 		</tr>
 		<tr>
 			<td><b><a href="https://www.researchgate.net/profile/Manuela_Lenk" target="_blank">Manuela Lenk</a></b> (Statistics Austria)</td>
-			<td>Quality assessment of the annually Austrian register-based Census</td>
+			<td> Quality assessment of register based statistics </td>
 			<td></td>
 		</tr>
 		<tr>
@@ -101,7 +101,7 @@
 	  <tr> <td> Miika Honkala (Finland) </td> <td> Estimation of response propensities using the previous survey </td> <td>  </td> </tr>
 	  <tr> <td> Tetiana Ianevych, Veronika Serhiienko (Ukraine) </td> <td> Effect of using Tobit and Heckit models in regression estimation for data with many zeros </td> <td>  </td> </tr>
 	  <tr> <td> Inguna Jurgelane-Kaldava (Latvia) </td> <td> Correlation between Logistics and Higher Education in Latvia </td> <td>  </td> </tr>
-	  <tr> <td> Viktoria Kirpu (Estonia) </td> <td> Implementation of imputation methods (initial title) </td> <td>  </td> </tr>
+	  <tr> <td> Viktoria Kirpu (Estonia) </td> <td> Handling missing data and errors in Estonian eHealth information system </td> <td>  </td> </tr>
 	  <tr> <td> Seppo Laaksonen (Finland) </td> <td> Multiple Imputation for Income </td> <td>  </td> </tr>
 	  <tr> <td> Mārtiņš Liberts (Latvia) </td> <td> Population Estimation Beyond 2021 </td> <td>  </td> </tr>
 	  <tr> <td> Vytautas Pankūnas, Julija Janeiko (Lithuania) </td> <td> Coherence studies in time series </td> <td>  </td> </tr>
