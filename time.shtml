@@ -90,10 +90,10 @@
 		</tr>
 		<tr class="italic">
 			<td colspan="3"></td>
-			<td>Contributed Session I<br>Chair: TBA</td>
-			<td>Contributed Session III<br>Chair: TBA</td>
-			<td>Contributed Session IV<br>Chair: TBA</td>
-			<td>Contributed Session VI<br>Chair: TBA</td>
+			<td>Contributed Session 1 <br>Chair: TBA</td>
+			<td>Contributed Session 3 <br>Chair: TBA</td>
+			<td>Contributed Session 4 <br>Chair: TBA</td>
+			<td>Contributed Session 6 <br>Chair: TBA</td>
 		</tr>
 		<tr>
 			<td rowspan="5" class="right">10:50</td>
@@ -146,7 +146,7 @@
 			<td class="right">45m</td>
 			<td rowspan="2" class="yellow">IL: <a href="files/lectures/BNU2018-Särndal.pdf">Carl-Erik Särndal</a></td>
 			<td class="yellow">IL: <a href="files/lectures/BNU2018-Lenk.pdf">Manuela Lenk</a></td>
-			<td class="yellow">IL: Maciej Beręsewicz</td>
+			<td class="yellow">IL: <a href="files/lectures/BNU2018-Beręsewicz.pdf">Maciej Beręsewicz</a></td>
 		</tr>
 		<tr>
 			<td class="right">14:40</td>
@@ -165,9 +165,9 @@
 		</tr>
 		<tr class="italic">
 			<td colspan="3"></td>
-			<td>Contributed Session II<br>Chair: TBA</td>
+			<td>Contributed Session 2      <br>Chair: TBA</td>
 			<td>Special Contributed Session<br>Chair: TBA</td>
-			<td>Contributed Session V<br>Chair: TBA</td>
+			<td>Contributed Session 5      <br>Chair: TBA</td>
 		</tr>
 		<tr>
 			<td rowspan="5" class="right">15:45</td>
