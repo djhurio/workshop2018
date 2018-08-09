@@ -2,14 +2,6 @@
 
 <h1>Schedule</h1>
 
-<h2>Time Schedule Before the Workshop</h2>
-
-<ul>
-	<li><strong>27 May 2018</strong> - the deadline for the <a href="registration.shtml">registration</a></li>
-	<li>17 June 2018 (extended to <strong>17 July 2018</strong>) - the deadline for <a href="instructions.shtml">abstract and contributed paper submission</a></li>
-	<li><strong>01 July 2018</strong> - the deadline for the <a href="registration.shtml">payment of the registration fee</a></li>
-</ul>
-
 <h2>Time Schedule During the Workshop</h2>
 
 <ul>
@@ -21,6 +13,8 @@
 </ul>
 
 <h2>Workshop Programme</h2>
+
+<p><a href="files/BNU2018-Programme-compact.pdf">Workshop Programme (compact) for downloading or printing (PDF)</a></p>
 
 <table class="general left fsmall">
 	<colgroup span="3" width="5%">
@@ -206,6 +200,14 @@
 	</tbody>
 </table>
 
-<p>KL – keynote lecture, IL – invited lecture, C – contributed paper, D – discussion</p>
+<p><font class="green">KL – keynote lecture</font>, <font class="yellow">IL – invited lecture</font>, C – contributed paper, D – discussant</p>
+
+<h2>Time Schedule Before the Workshop</h2>
+
+<ul>
+	<li><strong>27 May 2018</strong> - the deadline for the <a href="registration.shtml">registration</a></li>
+	<li>17 June 2018 (extended to <strong>17 July 2018</strong>) - the deadline for <a href="instructions.shtml">abstract and contributed paper submission</a></li>
+	<li><strong>01 July 2018</strong> - the deadline for the <a href="registration.shtml">payment of the registration fee</a></li>
+</ul>
 
 <!--#include virtual="footer.shtml" -->
