@@ -24,17 +24,17 @@
 			<th>From</th>
 			<th>To</th>
 			<th>Length</th>
-			<th>Monday    (20.08)</th>
-			<th>Tuesday   (21.08)</th>
-			<th>Wednesday (22.08)</th>
-			<th>Thursday  (23.08)</th>
-			<th>Friday    (24.08)</th>
+			<th>Monday    (20 Aug)</th>
+			<th>Tuesday   (21 Aug)</th>
+			<th>Wednesday (22 Aug)</th>
+			<th>Thursday  (23 Aug)</th>
+			<th>Friday    (24 Aug)</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td class="right">08:00</td>
-			<td class="right">08:50</td>
+			<td class="right">08.00</td>
+			<td class="right">08.50</td>
 			<td class="right">50m</td>
 			<td rowspan="23"></td>
 			<td class="pink">Registration</td>
@@ -43,8 +43,8 @@
 			<td></td>
 		</tr>
 		<tr>
-			<td class="right">08:50</td>
-			<td class="right">09:00</td>
+			<td class="right">08.50</td>
+			<td class="right">09.00</td>
 			<td class="right">10m</td>
 			<td class="pink">Opening</td>
 			<td></td>
@@ -59,28 +59,28 @@
 			<td>Chair: TBA</td>
 		</tr>
 		<tr>
-			<td class="right">09:00</td>
-			<td class="right">09:45</td>
+			<td class="right">09.00</td>
+			<td class="right">09.45</td>
 			<td class="right">45m</td>
 			<td rowspan="2" class="green">KL: Anders Holmberg,<br>Li Chun Zhang</td>
 			<td rowspan="2" class="green">KL: Anders Holmberg,<br>Li Chun Zhang</td>
 			<td rowspan="2" class="green">KL: Anders Holmberg,<br>Li Chun Zhang</td>
-			<td class="yellow">IL: <a href="files/lectures/BNU2018-Oguz-Alper.pdf">Melike Oguz Alper</a><br>(09:00 - 09:45)</td>
+			<td class="yellow">IL: <a href="files/lectures/BNU2018-Oguz-Alper.pdf">Melike Oguz Alper</a><br>(09.00 - 09.45)</td>
 		</tr>
 		<tr>
-			<td class="right">09:45</td>
-			<td class="right">10:30</td>
+			<td class="right">09.45</td>
+			<td class="right">10.30</td>
 			<td class="right">45m</td>
 			<td class="yellow">IL: <a href="files/lectures/BNU2018-Bokun.pdf">Natalia Bokun</a><br>(09.50 – 10.35)</td>
 		</tr>
 		<tr class="blue">
-			<td class="right">10:30</td>
-			<td class="right">10:50</td>
+			<td class="right">10.30</td>
+			<td class="right">10.50</td>
 			<td class="right">20m</td>
 			<td>Coffee Break</td>
 			<td>Coffee Break</td>
 			<td>Coffee Break</td>
-			<td>Coffee Break<br>(10:35 - 10:55)</td>
+			<td>Coffee Break<br>(10.35 - 10.55)</td>
 		</tr>
 		<tr class="italic">
 			<td colspan="3"></td>
@@ -90,8 +90,8 @@
 			<td>Contributed Session 6 <br>Chair: TBA</td>
 		</tr>
 		<tr>
-			<td rowspan="5" class="right">10:50</td>
-			<td rowspan="5" class="right">12:50</td>
+			<td rowspan="5" class="right">10.50</td>
+			<td rowspan="5" class="right">12.50</td>
 			<td rowspan="5" class="right">2h</td>
 			<td>C: <br>D: </td>
 			<td>C: <br>D: </td>
@@ -121,8 +121,8 @@
 			<td>C: <br>D: </td>
 		</tr>
 		<tr class="blue">
-			<td class="right">12:50</td>
-			<td class="right">13:50</td>
+			<td class="right">12.50</td>
+			<td class="right">13.50</td>
 			<td class="right">1h</td>
 			<td>Lunch</td>
 			<td>Lunch</td>
@@ -135,23 +135,23 @@
 			<td>Chair: TBA</td>
 		</tr>
 		<tr>
-			<td class="right">13:50</td>
-			<td class="right">14:35</td>
+			<td class="right">13.50</td>
+			<td class="right">14.35</td>
 			<td class="right">45m</td>
 			<td rowspan="2" class="yellow">IL: <a href="files/lectures/BNU2018-Särndal.pdf">Carl-Erik Särndal</a></td>
 			<td class="yellow">IL: <a href="files/lectures/BNU2018-Lenk.pdf">Manuela Lenk</a></td>
 			<td class="yellow">IL: <a href="files/lectures/BNU2018-Beręsewicz.pdf">Maciej Beręsewicz</a></td>
 		</tr>
 		<tr>
-			<td class="right">14:40</td>
-			<td class="right">15:25</td>
+			<td class="right">14.40</td>
+			<td class="right">15.25</td>
 			<td class="right">45m</td>
 			<td class="yellow">IL: Danutė Krapavickaitė</td>
 			<td class="yellow">IL: <a href="files/lectures/BNU2018-Breidaks.pdf">Juris Breidaks</a></td>
 		</tr>
 		<tr class="blue">
-			<td class="right">15:25</td>
-			<td class="right">15:45</td>
+			<td class="right">15.25</td>
+			<td class="right">15.45</td>
 			<td class="right">20m</td>
 			<td>Coffee Break</td>
 			<td>Coffee Break</td>
@@ -164,8 +164,8 @@
 			<td>Contributed Session 5      <br>Chair: TBA</td>
 		</tr>
 		<tr>
-			<td rowspan="5" class="right">15:45</td>
-			<td rowspan="5" class="right">17:45</td>
+			<td rowspan="5" class="right">15.45</td>
+			<td rowspan="5" class="right">17.45</td>
 			<td rowspan="5" class="right">2h</td>
 			<td>C: <br>D: </td>
 			<td rowspan="2" class="pink"></td>
@@ -182,7 +182,7 @@
 		</tr>
 		<tr>
 			<td>C: <br>D: </td>
-			<td rowspan="3" class="purple">City Tour (17:00)</td>
+			<td rowspan="3" class="purple">City Tour (17.00)</td>
 			<td>C: <br>D: </td>
 		</tr>
 		<tr>
@@ -190,7 +190,7 @@
 			<td>C: <br>D: </td>
 		</tr>
 		<tr>
-			<td class="right">19:00</td>
+			<td class="right">19.00</td>
 			<td class="right">--</td>
 			<td class="right">--</td>
 			<td class="purple">Welcome Party</td>
