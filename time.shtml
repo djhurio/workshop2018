@@ -14,7 +14,9 @@
 
 <h2>Workshop Programme</h2>
 
-<p><a href="files/BNU2018-Programme-compact.pdf">Workshop Programme (compact) for downloading or printing (PDF)</a></p>
+<p><a href="files/BNU2018-Programme-compact.pdf">Workshop Programme (compact, 1 page) for downloading or printing (PDF)</a></p>
+
+<p><a href="files/BNU2018-Programme-detailed.pdf">Workshop Programme (detailed, 4 pages) for downloading or printing (PDF)</a></p>
 
 <table class="general left fsmall">
 	<colgroup span="3" width="5%">
@@ -46,17 +48,17 @@
 			<td class="right">08.50</td>
 			<td class="right">09.00</td>
 			<td class="right">10m</td>
-			<td class="pink">Opening</td>
+			<td class="pink">Opening: Mārtiņš Liberts and Thomas Laitila</td>
 			<td></td>
 			<td></td>
 			<td></td>
 		</tr>
 		<tr class="italic">
 			<td colspan="3"></td>
-			<td>Chair: TBA</td>
-			<td>Chair: TBA</td>
-			<td>Chair: TBA</td>
-			<td>Chair: TBA</td>
+			<td>Chair: Thomas Laitila</td>
+			<td>Chair: Thomas Laitila</td>
+			<td>Chair: Thomas Laitila</td>
+			<td>Chair: Olga Vasylyk</td>
 		</tr>
 		<tr>
 			<td class="right">09.00</td>
@@ -71,7 +73,7 @@
 			<td class="right">09.45</td>
 			<td class="right">10.30</td>
 			<td class="right">45m</td>
-			<td class="yellow">IL: <a href="files/lectures/BNU2018-Bokun.pdf">Natalia Bokun</a><br>(09.50 – 10.35)</td>
+			<td class="yellow">IL: <a href="files/lectures/BNU2018-Bokun.pdf">Natallia Bokun</a><br>(09.50 – 10.35)</td>
 		</tr>
 		<tr class="blue">
 			<td class="right">10.30</td>
@@ -84,41 +86,41 @@
 		</tr>
 		<tr class="italic">
 			<td colspan="3"></td>
-			<td>Contributed Session 1 <br>Chair: TBA</td>
-			<td>Contributed Session 3 <br>Chair: TBA</td>
-			<td>Contributed Session 4 <br>Chair: TBA</td>
-			<td>Contributed Session 6 <br>Chair: TBA</td>
+			<td>Contributed Session 1 <br>Chair: Milda Šličkutė-Šeštokienė</td>
+			<td>Contributed Session 3 <br>Chair: Natallia Bokun</td>
+			<td>Contributed Session 4 <br>Chair: Jānis Lapiņš</td>
+			<td>Contributed Session 6 <br>Chair: Tetiana Ianevych</td>
 		</tr>
 		<tr>
 			<td rowspan="5" class="right">10.50</td>
 			<td rowspan="5" class="right">12.50</td>
 			<td rowspan="5" class="right">2h</td>
-			<td>C: <br>D: </td>
-			<td>C: <br>D: </td>
-			<td>C: <br>D: </td>
-			<td>C: <br>D: </td>
+			<td>C: <a href='files/papers/BNU2018-Šova.pdf'>Markus Gintas Šova</a> <br>D: Miika Honkala, Jelena Voronova</td>
+			<td>C: <a href='files/papers/BNU2018-Bandarenka.pdf'>Natallia Bandarenka</a><br>D: Natalia Rozora, Vytautas Pankūnas</td>
+			<td>C: <a href='files/papers/BNU2018-Honkala.pdf'>Miika Honkala</a><br>D: Inese Gobina, Daryna Sydorova</td>
+			<td>C: <a href='files/papers/BNU2018-Sakovich.pdf'>Natallia Sakovich</a><br>D: Janis Jukams, Svitlana Synohub</td>
 		</tr>
 		<tr>
-			<td>C: <br>D: </td>
-			<td>C: <br>D: </td>
-			<td>C: <br>D: </td>
-			<td>C: <br>D: </td>
+			<td>C: <a href='files/papers/BNU2018-Sydorov.pdf'>Mykola Sydorov</a><br>D: Pēteris Veģis</td>
+			<td>C: <a href='files/papers/BNU2018-Vegis.pdf'>Pēteris Veģis</a><br>D: Markus Gintas Šova</td>
+			<td>C: <a href='files/papers/BNU2018-Sarioglo.pdf'>Volodymyr Sarioglo</a><br>D: Alina Sinisalo</td>
+			<td>C: <a href='files/papers/BNU2018-Rozora-Natalia.pdf'>Natalia Rozora</a><br>D: Aušra Antanavičiūtė, Zane Matveja</td>
 		</tr>
 		<tr>
-			<td>C: <br>D: </td>
-			<td>C: <br>D: </td>
-			<td>C: <br>D: </td>
+			<td>C: <a href='files/papers/BNU2018-Fisenko-and-Lapins.pdf'>Andris Fisenko and Jānis Lapiņš</a><br>D: Volodymyr Sarioglo</td>
+			<td>C: <a href='files/papers/BNU2018-Slickute-Sestokiene.pdf'>Milda Šličkutė-Šeštokienė</a><br>D: Andris Fisenko, Ilze Viļuma</td>
+			<td>C: <a href='files/papers/BNU2018-Halytsia.pdf'>Yuliia Halytsia</a><br>D: Oona Pentala-Nikulainen, Olesja Nikoluskina</td>
 			<td rowspan="3" class="pink">Closing of the workshop<br>(11.45 – 13.00)</td>
 		</tr>
 		<tr>
-			<td>C: <br>D: </td>
-			<td>C: <br>D: </td>
-			<td>C: <br>D: </td>
+			<td>C: <a href='files/papers/BNU2018-Sõstra.pdf'>Kaja Sõstra</a><br>D: Biruta Sloka</td>
+			<td>C: <a href='files/papers/BNU2018-Liberts.pdf'>Mārtiņš Liberts</a><br>D: Mykola Sydorov</td>
+			<td>C: <a href='files/papers/BNU2018-Ianevych-and-Serhiienko.pdf'>Tetiana Ianevych and Veronika Serhiienko</a><br>D: Elvijs Siliņš, Laura Jozefa</td>
 		</tr>
 		<tr>
-			<td>C: <br>D: </td>
-			<td>C: <br>D: </td>
-			<td>C: <br>D: </td>
+			<td>C: <a href='files/papers/BNU2018-Sinisalo.pdf'>Alina Sinisalo</a><br>D: Natallia Sakovich, Baiba Zukula</td>
+			<td>C: <a href='files/papers/BNU2018-Siliņš.pdf'>Elvijs Siliņš</a><br>D: Julija Janeiko, Maranda Behmane</td>
+			<td>C: <a href='files/papers/BNU2018-Vasylyk.pdf'>Olga Vasylyk</a><br>D: Inara Kantane</td>
 		</tr>
 		<tr class="blue">
 			<td class="right">12.50</td>
@@ -130,9 +132,9 @@
 		</tr>
 		<tr class="italic">
 			<td colspan="3"></td>
-			<td>Chair: TBA</td>
-			<td>Chair: TBA</td>
-			<td>Chair: TBA</td>
+			<td>Chair: Imbi Traat</td>
+			<td>Chair: Maria Valaste</td>
+			<td>Chair: Mārtiņš Liberts</td>
 		</tr>
 		<tr>
 			<td class="right">13.50</td>
@@ -159,35 +161,36 @@
 		</tr>
 		<tr class="italic">
 			<td colspan="3"></td>
-			<td>Contributed Session 2      <br>Chair: TBA</td>
-			<td>Special Contributed Session<br>Chair: TBA</td>
-			<td>Contributed Session 5      <br>Chair: TBA</td>
+			<td>Contributed Session 2      <br>Chair: Kaja Sõstra</td>
+			<td>Special Contributed Session</td>
+			<td>Contributed Session 5      <br>Chair: Danutė Krapavickaitė</td>
 		</tr>
 		<tr>
 			<td rowspan="5" class="right">15.45</td>
 			<td rowspan="5" class="right">17.45</td>
 			<td rowspan="5" class="right">2h</td>
-			<td>C: <br>D: </td>
-			<td rowspan="2" class="pink"></td>
-			<td>C: <br>D: </td>
+			<td>C: <a href='files/papers/BNU2018-Sokurova.pdf'>Diana Sokurova</a><br>D: Yuliia Halytsia, Ieva Aināre</td>
+			<td rowspan="2" class="pink">Danutė Krapavickaitė and Imbi Traat:<br>
+			"Survey statistics is cool and hot" – Remembering Gunnar Kulldorff</td>
+			<td>C: <a href='files/papers/BNU2018-Jurgelane-Kaldava.pdf'>Inguna Jurgelane-Kaldava</a><br>D: Milda Šličkutė-Šeštokienė</td>
 		</tr>
 		<tr>
-			<td>C: <br>D: </td>
-			<td>C: <br>D: </td>
+			<td>C: <a href='files/papers/BNU2018-Valaste.pdf'>Maria Valaste</a><br>D: Inguna Jurgelane-Kaldava</td>
+			<td>C: Biruta Sloka<br>D: Anastasiya Pyankova, Rikard Gard</td>
 		</tr>
 		<tr>
-			<td>C: <br>D: </td>
+			<td>C: <a href='files/papers/BNU2018-Pentala-Nikulainen.pdf'>Oona Pentala-Nikulainen</a><br>D: Veronika Serhiienko, Sigita Meldere</td>
 			<td></td>
-			<td>C: <br>D: </td>
+			<td>C: <a href='files/papers/BNU2018-Rozora-Iryna.pdf'>Iryna Rozora</a><br>D: Ilze Balode</td>
 		</tr>
 		<tr>
-			<td>C: <br>D: </td>
+			<td>C: <a href='files/papers/BNU2018-Laaksonen.pdf'>Seppo Laaksonen</a><br>D: Iryna Rozora, Ruāna Pavasare</td>
 			<td rowspan="3" class="purple">City Tour (17.00)</td>
-			<td>C: <br>D: </td>
+			<td>C: <a href='files/papers/BNU2018-Pankūnas-and-Janeiko.pdf'>Julija Janeiko and Vytautas Pankūnas</a><br>D: Viktoria Kirpu, Zane Grēna</td>
 		</tr>
 		<tr>
-			<td>C: <br>D: </td>
-			<td>C: <br>D: </td>
+			<td>C: <a href='files/papers/BNU2018-Kirpu.pdf'>Viktoria Kirpu</a><br>D: Julia Hellstrand, Natallia Bandarenka</td>
+			<td>C: <a href='files/papers/BNU2018-Hellstrand.pdf'>Julia Hellstrand</a><br>D: Diana Sokurova, Dovilė Galdauskaitė</td>
 		</tr>
 		<tr>
 			<td class="right">19.00</td>
