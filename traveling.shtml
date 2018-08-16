@@ -1,6 +1,6 @@
 <!--#include virtual="header.shtml" -->
 
-<h1>Travelling</h1>
+<h1>Arrival</h1>
 
 <p>Most participants are expected to arrive to Jelgava through Rīga. It is possible to take a taxi from Rīga International Airport directly to Jelgava city. It will cost around 40 euros. <a href="https://taxify.eu/" target="_blank">Taxify</a> is very convenient and reliable application for hiring a taxi: <a href="https://171140.measurementapi.com/serve?action=click&publisher_id=171140&site_id=81382" target="_blank">Android</a>, <a href="https://171140.measurementapi.com/serve?action=click&publisher_id=171140&site_id=83620">iPhone</a>. </p>
 
@@ -17,9 +17,15 @@
 
 <p><a href="https://www.trafi.com/" target="_blank">Trafi</a> is very usefull application for transport in Rīga: <a href="https://www.trafi.com/lv/riga" target="_blank">Web App</a>, <a href="https://l.trafi.com/corp_to_playstore" target="_blank">Android</a>, <a href="https://l.trafi.com/corp_to_playstore" target="_blank">iPhone</a>.</p>
 
-<h2>Traveling between Rīga and Jelgava</h2>
 
-<h3>Tickets for traveling between Rīga and Jelgava</h3>
+<h2>Rīga -> Jelgava</h2>
+
+<p>Bus: <a href="https://www.1188.lv/en/transport/schedules/rigas-sao/jelgavas-ao/105317/105274" target="_blank">Time schedule and prices</a>.</p>
+
+<p>Train: <a href="https://www.pv.lv/en/" target="_blank">Time schedule and prices</a>. Please choose "Rīga" and "Jelgava" for traveling between Rīga and Jelgava.</p>
+
+
+<h2>Tickets for traveling between Rīga and Jelgava</h2>
 
 <p><u>Bus:</u> There are <a href="pic/ticket-machine-Bus.jpg">ticket vending machines</a> in both Rīga and Jelgava bus stations where it is easy to buy a ticket making a payment with a credit card.</p>
 
@@ -27,22 +33,17 @@
 
 <p><u>Bus and train</u> tickets can be bought using the mobile application <a href="https://www.mobilly.lv/pub/en/" target="_blank">Mobilly</a>: <a href="https://play.google.com/store/apps/details?id=lv.mobilly.android" target="_blank">Android</a>, <a href="https://itunes.apple.com/lv/app/mobilly/id511847269?mt=8" target="_blank">iPhone</a>.</p>
 
-<h3>Rīga -> Jelgava</h3>
-
-<p>Bus: <a href="https://www.1188.lv/en/transport/schedules/rigas-sao/jelgavas-ao/105317/105274" target="_blank">Time schedule and prices</a>.</p>
-
-<p>Train: <a href="https://www.pv.lv/en/" target="_blank">Time schedule and prices</a>. Please choose "Rīga" and "Jelgava" for traveling between Rīga and Jelgava.</p>
 
 
-<h3>Traveling in Jelgava</h3>
-
-<p><a href="https://www.marsruti.lv/jelgava/index.html#bus/map" target="_blank">Public transport in Jelgava</a></p>
+<h1>Traveling in Jelgava</h1>
 
 <p>University Dormitory No. 8 is very close to the workshop venue (200 m).</p>
 
 <p>Hotel "Jelgava" is in walking distance (950 m) to the BNU2018 venue.</p>
 
 <p>Hotel "Zemgale" is in walking distance (2.5 km) to the BNU2018 venue. But you can take a public bus to go to the BNU2018 venue.</p>
+
+<p><a href="https://www.marsruti.lv/jelgava/index.html#bus/map" target="_blank">Public transport in Jelgava</a></p>
 
 <p><u>Hotel "Zemgale" --> BNU2018</u></p>
 
@@ -60,9 +61,11 @@
 
 
 
+<h1>Departure</h1>
 
+General recommendation is to leave Jelgava 4 h before your flight departure time from the Rīga Airport if you are going by public transport.
 
-<h3>Jelgava -> Rīga</h3>
+<h2>Jelgava -> Rīga</h2>
 
 <p>Bus: <a href="https://www.1188.lv/en/transport/schedules/jelgavas-ao/rigas-sao/105274/105317" target="_blank">Time schedule and prices</a>.</p>
 
@@ -75,7 +78,7 @@
 <p><a href="https://saraksti.rigassatiksme.lv/index.html#bus/22/a-b/1025a/en" target="_blank">Time schedule for the bus no. 22 to the airport</a>. <a href="https://saraksti.rigassatiksme.lv/index.html#expressbus/322/a-b/1025a/en" target="_blank">Time schedule for the express bus no. 322 to the airport</a>.</p>
 
 
-<h2>Rīga centre maps</h2>
+<h1>Rīga centre maps</h1>
 
 <p><img src="pic/Riga-map-1.PNG"></p>
 
