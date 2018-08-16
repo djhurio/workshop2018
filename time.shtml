@@ -186,7 +186,11 @@
 		</tr>
 		<tr>
 			<td>C: <a href='files/papers/BNU2018-Laaksonen.pdf'>Seppo Laaksonen</a><br>D: Iryna Rozora, Ruāna Pavasare</td>
-			<td rowspan="3" class="purple">City Tour (17.00)</td>
+			<td rowspan="3" class="purple">City Tour (17.00)
+				<ul>
+					<li><a href="http://www.latvia.travel/en/sight/jelgava-palace" target="_blank">Jelgava Palace</a></li>
+					<li><a href="http://viedalus.lv/" target="_blank">Bier brewery "Viedi"</a></li>
+				</ul></td>
 			<td>C: <a href='files/papers/BNU2018-Pankūnas-and-Janeiko.pdf'>Julija Janeiko and Vytautas Pankūnas</a><br>D: Viktoria Kirpu, Zane Grēna</td>
 		</tr>
 		<tr>
@@ -197,9 +201,9 @@
 			<td class="right">19.00</td>
 			<td class="right">--</td>
 			<td class="right">--</td>
-			<td class="purple">Welcome Party</td>
-			<td class="purple">BNU Steering Committee Meeting</td>
-			<td class="purple">Farewell Party</td>
+			<td class="purple">Welcome Party<br><a href="https://goo.gl/maps/5enveBiRba62" target="_blank">Restaurant "Otto"</a></td>
+			<td class="purple">BNU Steering Committee Meeting<br><a href="https://goo.gl/maps/EhA5VRwqax22" target="_blank">Restaurant "Chocolate & Pepper"</a></td>
+			<td class="purple">Farewell Party<br><a href="https://goo.gl/maps/LxQdiTqZrfx" target="_blank">Restaurant "Plate"</a> (Bells hall) at the hotel "Jelgava"</td>
 		</tr>
 	</tbody>
 </table>
