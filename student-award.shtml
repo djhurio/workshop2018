@@ -1,0 +1,37 @@
+<!--#include virtual="header.shtml" -->
+
+<h1>Best Student Paper Award</h1>
+
+<p>The competition for the Best Student Paper Award has been announced for the first time in BNU events. The award winner (or winners) will be announced durng the workshop closing session.</p>
+
+
+<h2>Competitors</h2>
+
+Award Committee has chosen six papers to be eligible for the competition:
+
+<ul>
+  <li>Diana Sokurova "<a href='files/papers/BNU2018-Sokurova.pdf'>The Local Pivotal Method and its Application on StatVillage Data</a>" (University of Tartu, Estonia)</li>
+  <li>Julia Hellstrand "<a href='files/papers/BNU2018-Hellstrand.pdf'>All-time low period fertility in Finland: tempo or quantum effect?</a>" (University of Helsinki / Statistics Finland)</li>
+  <li>Oona Pentala-Nikulainen "<a href='files/papers/BNU2018-Pentala-Nikulainen.pdf'>Case study: The effect of text message reminder on survey nonresponse</a>" (Helsinki University, Finland)</li>
+  <li>Viktoria Kirpu "<a href='files/papers/BNU2018-Kirpu.pdf'>Handling missing data and errors in Estonian eHealth information system</a>" (University of Tartu, Estonia)</li>
+  <li>Vytautas Pankūnas, Julija Janeiko "<a href='files/papers/BNU2018-Pankūnas-and-Janeiko.pdf'>Coherence studies in time series</a>" (Vilnius Gediminas Technical University, Lithuania)</li>
+  <li>Yuliia Halytsia "<a href='files/papers/BNU2018-Halytsia.pdf'>Calibration Weighting in Survey Sampling (Based on Sample Socio-Demographic Survey)</a>" (Taras Shevchenko National University of Kyiv, Ukraine)</li>
+</ul>
+
+
+<h2>Award Committee</h2>
+
+<ul>
+  <li>Kaja Sõstra (Statistics Estonia, Estonia)</li>
+  <li>Seppo Laaksonen (University of Helsinki, Finland, chair)</li>
+  <li>Thomas Laitila (Örebro University, Sweden, Sweden)</li>
+  <li>Mykola Sydorov (Taras Shevchenko National University of Kyiv, Ukraine)</li>
+  <li>Markus Gintas Šova (Office for National Statistics, United Kingdom)</li>
+</ul>
+
+
+
+
+
+
+<!--#include virtual="footer.shtml" -->
