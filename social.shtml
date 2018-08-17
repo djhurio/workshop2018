@@ -4,10 +4,12 @@
 
 <p>The expenses of all social events are covered by the registration fee.</p>
 
+<p>End times of the social events are indicative.</p>
+
 <h2>Welcome Party</h2>
 
 <ul>
-	<li> <strong>2018-08-20 (Monday) 19.00-21.00</strong> </li>
+	<li> <strong>2018-08-20 (Monday) 19.00-<i>21.00</i></strong> </li>
 	<li> <a href="https://www.facebook.com/OTTO-Pusdienu-restor%C4%81ns-1119286191417262/" target="_blank">Restaurant "Otto"</a> </li>
 	<li> <a href="https://goo.gl/maps/5enveBiRba62" target="_blank">Lielā iela 17</a> </li>
 </ul>
@@ -15,7 +17,7 @@
 <h2>City Tour</h2>
 
 <ul>
-	<li> <strong>2018-08-22 (Wednesday) 17.00-21.30</strong> </li>
+	<li> <strong>2018-08-22 (Wednesday) 17.00-<i>21.30</i></strong> </li>
 	<li> Excursion at <a href="http://www.latvia.travel/en/sight/jelgava-palace" target="_blank">Jelgava Palace</a> </li>
 	<li> Excursion at <a href="http://viedalus.lv/" target="_blank">bier brewery "Viedi"</a> </li>
 </ul>
@@ -23,11 +25,9 @@
 <h2>Farewell Party</h2>
 
 <ul>
-	<li> <strong>2018-08-23 (Thursday) 19.00-00.00</strong> </li>
+	<li> <strong>2018-08-23 (Thursday) 19.00-<i>00.00</i></strong> </li>
 	<li> <a href="http://www.hoteljelgava.lv/?page=3&ln=en" target="_blank">Restaurant "Plate"</a> (<a href="http://www.hoteljelgava.lv/?page=31&ln=en" target="_blank">Bells hall</a>) at the hotel "Jelgava" </li>
 	<li> <a href="https://goo.gl/maps/LxQdiTqZrfx" target="_blank">Lielā iela 6</a> </li>
 </ul>
-
-
 
 <!--#include virtual="footer.shtml" -->
