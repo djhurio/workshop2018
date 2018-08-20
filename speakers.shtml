@@ -19,10 +19,11 @@
 		<tr>
 			<td>Prof. <b><a href="https://www.southampton.ac.uk/demography/about/staff/lz1n11.page" target="_blank">Li-Chun Zhang</a></b> (University of Southampton, UK & Statistics Norway)</td>
 			<td rowspan="2">The past, present and future of population censuses: Methodology and quality aspects when data sources are being reused and combined to transform a census system</td>
-			<td rowspan="2"></td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>Dr. <b><a href="https://www.linkedin.com/in/anders-holmberg-a658aa9/" target="_blank">Anders Holmberg</a></b> (Statistics Norway)</td>
+			<td><a href="files/slides/BNU2018-Holmberg-slides.pdf">slides</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -97,7 +98,7 @@
 	<tbody>
 		<tr> <td> Natallia Bandarenka (Belarus) </td> <td> Population Census in the Republic of Belarus: Experience and Perspectives </td> <td> <a href='files/papers/BNU2018-Bandarenka.pdf'>paper</a> </td> </tr>
 	  <tr> <td> Andris Fisenko, Janis Lapins (Latvia) </td> <td> Use of Register Data in Latvian Household Finance and Consumption Survey </td> <td> <a href='files/papers/BNU2018-Fisenko-and-Lapins.pdf'>abstract</a> </td> </tr>
-	  <tr> <td> Yuliia Halytsia (Ukraine) </td> <td> Calibration Weighting in Survey Sampling (Based on Sample Socio-Demographic Survey) </td> <td> <a href='files/papers/BNU2018-Halytsia.pdf'>paper</a> </td> </tr>
+	  <tr> <td> Yuliia Halytsia (Ukraine) </td> <td> Calibration Weighting in Survey Sampling (Based on Sample Socio-Demographic Survey) </td> <td> <a href='files/papers/BNU2018-Halytsia.pdf'>paper</a> <a href="files/slides/BNU2018-Halytsia-slides.pptx">slides</a> </td> </tr>
 	  <tr> <td> Julia Hellstrand (Finland) </td> <td> All-time low period fertility in Finland: tempo or quantum effect? </td> <td> <a href='files/papers/BNU2018-Hellstrand.pdf'>paper</a> </td> </tr>
 	  <tr> <td> Miika Honkala (Finland) </td> <td> Estimation of response propensities using the previous survey </td> <td> <a href='files/papers/BNU2018-Honkala.pdf'>paper</a> </td> </tr>
 	  <tr> <td> Tetiana Ianevych, Veronika Serhiienko (Ukraine) </td> <td> Effect of using Tobit and Heckit models in regression estimation for data with many zeros </td> <td> <a href='files/papers/BNU2018-Ianevych-and-Serhiienko.pdf'>paper</a> </td> </tr>
