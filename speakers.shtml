@@ -19,7 +19,11 @@
 		<tr>
 			<td>Prof. <b><a href="https://www.southampton.ac.uk/demography/about/staff/lz1n11.page" target="_blank">Li-Chun Zhang</a></b> (University of Southampton, UK & Statistics Norway)</td>
 			<td rowspan="2">The past, present and future of population censuses: Methodology and quality aspects when data sources are being reused and combined to transform a census system</td>
-			<td></td>
+			<td>
+				<a href="files/slides/BNU2018-Zhang-slides-1underCover.pdf">slides-1</a><br>
+				<a href="files/slides/BNU2018-Zhang-slides-2errEnum.pdf">slides-2</a><br>
+				<a href="files/slides/BNU2018-Zhang-slides-3hushDwelling.pdf">slides-3</a>
+			</td>
 		</tr>
 		<tr>
 			<td>Dr. <b><a href="https://www.linkedin.com/in/anders-holmberg-a658aa9/" target="_blank">Anders Holmberg</a></b> (Statistics Norway)</td>
@@ -71,7 +75,9 @@
 			<td><b><a href="https://www.linkedin.com/in/melike-oguz-alper-40447262/" target="_blank">Melike Oguz Alper</a></b> (Statistics Norway),<br>
 			Prof. <b><a href="https://www.southampton.ac.uk/demography/about/staff/lz1n11.page" target="_blank">Li-Chun Zhang</a></b> (University of Southampton, UK & Statistics Norway)</td>
 			<td>Sampling and estimation in finite networks</td>
-			<td> <a href="files/lectures/BNU2018-Oguz-Alper.pdf">abstract</a> </td>
+			<td> <a href="files/lectures/BNU2018-Oguz-Alper.pdf">abstract</a><br>
+			<a href="files/slides/BNU2018-Oguz-Alper-and-Zhang-slides.pdf">slides</a>
+			</td>
 		</tr>
 		<tr>
 			<td><b><a href="https://scholar.google.com/citations?user=FuVl6vkAAAAJ" target="_blank">Carl-Erik Särndal</a></b> (Statistics Sweden)</td>
@@ -100,12 +106,16 @@
 	  <tr> <td> Andris Fisenko, Janis Lapins (Latvia) </td> <td> Use of Register Data in Latvian Household Finance and Consumption Survey </td> <td> <a href='files/papers/BNU2018-Fisenko-and-Lapins.pdf'>abstract</a> </td> </tr>
 	  <tr> <td> Yuliia Halytsia (Ukraine) </td> <td> Calibration Weighting in Survey Sampling (Based on Sample Socio-Demographic Survey) </td> <td> <a href='files/papers/BNU2018-Halytsia.pdf'>paper</a> <a href="files/slides/BNU2018-Halytsia-slides.pptx">slides</a> </td> </tr>
 	  <tr> <td> Julia Hellstrand (Finland) </td> <td> All-time low period fertility in Finland: tempo or quantum effect? </td> <td> <a href='files/papers/BNU2018-Hellstrand.pdf'>paper</a> </td> </tr>
-	  <tr> <td> Miika Honkala (Finland) </td> <td> Estimation of response propensities using the previous survey </td> <td> <a href='files/papers/BNU2018-Honkala.pdf'>paper</a> </td> </tr>
+	  <tr> <td> Miika Honkala (Finland) </td> <td> Estimation of response propensities using the previous survey </td>
+		   <td> <a href='files/papers/BNU2018-Honkala.pdf'>paper</a> <a href="files/slides/BNU2018-Honkala-slides.pdf">slides</a> </td> </tr>
 	  <tr> <td> Tetiana Ianevych, Veronika Serhiienko (Ukraine) </td> <td> Effect of using Tobit and Heckit models in regression estimation for data with many zeros </td> <td> <a href='files/papers/BNU2018-Ianevych-and-Serhiienko.pdf'>paper</a> </td> </tr>
 	  <tr> <td> Inguna Jurgelane-Kaldava (Latvia) </td> <td> Correlation between Logistics and Higher Education in Latvia </td> <td> <a href='files/papers/BNU2018-Jurgelane-Kaldava.pdf'>paper</a> </td> </tr>
 	  <tr> <td> Viktoria Kirpu (Estonia) </td> <td> Handling missing data and errors in Estonian eHealth information system </td> <td> <a href='files/papers/BNU2018-Kirpu.pdf'>paper</a> </td> </tr>
 	  <tr> <td> Seppo Laaksonen (Finland) </td> <td> Multiple Imputation for Income </td> <td> <a href='files/papers/BNU2018-Laaksonen.pdf'>paper</a> </td> </tr>
-	  <tr> <td> Mārtiņš Liberts (Latvia) </td> <td> Population Estimation Beyond 2021 </td> <td> <a href='files/papers/BNU2018-Liberts.pdf'>paper</a> </td> </tr>
+	  <tr> <td> Mārtiņš Liberts (Latvia) </td> <td> Population Estimation Beyond 2021 </td>
+	  <td> <a href='files/papers/BNU2018-Liberts.pdf'>paper</a>
+		   <a href="files/slides/BNU2018-Liberts-slides.pptx">slides</a>
+	  </td> </tr>
 	  <tr> <td> Vytautas Pankūnas, Julija Janeiko (Lithuania) </td> <td> Coherence studies in time series </td> <td> <a href='files/papers/BNU2018-Pankūnas-and-Janeiko.pdf'>paper</a> </td> </tr>
 	  <tr> <td> Oona Pentala-Nikulainen (Finland) </td> <td> Case study: The effect of text message reminder on survey nonresponse </td> <td> <a href='files/papers/BNU2018-Pentala-Nikulainen.pdf'>paper</a> </td> </tr>
 	  <tr> <td> Iryna Rozora (Ukraine) </td> <td> Impact Factors Modeling of Households Deposit Dollarization in Ukraine </td> <td> <a href='files/papers/BNU2018-Rozora-Iryna.pdf'>paper</a> </td> </tr>
@@ -115,10 +125,14 @@
 	  <tr> <td> Elvijs Siliņš (Latvia) </td> <td> Calibration of Register Based Census Data </td> <td> <a href='files/papers/BNU2018-Siliņš.pdf'>abstract</a> </td> </tr>
 	  <tr> <td> Alina Sinisalo (Finland) </td> <td> Reporting tool for annual change studies by using survey data </td> <td> <a href='files/papers/BNU2018-Sinisalo.pdf'>paper</a> </td> </tr>
 	  <tr> <td> Milda Slickute-Sestokiene (Lithuania) </td> <td> Preparation for the register-based census </td> <td> <a href='files/papers/BNU2018-Slickute-Sestokiene.pdf'>abstract</a> </td> </tr>
-	  <tr> <td> Biruta Sloka (Latvia) </td> <td> Challenges for Data Analysis for Public Administrators </td> <td>  </td> </tr>
+	  <tr> <td> Biruta Sloka (Latvia) </td> <td> Challenges for Data Analysis for Public Administrators </td>
+			<td> <a href="files/papers/BNU2018-Sloka.docx">paper</a> </td> </tr>
 	  <tr> <td> Diana Sokurova (Estonia) </td> <td> The Local Pivotal Method and its Application on StatVillage Data </td> <td> <a href='files/papers/BNU2018-Sokurova.pdf'>paper</a> </td> </tr>
 	  <tr> <td> Mykola Sydorov (Ukraine) </td> <td> Sample models in monitoring survey UniDOS </td> <td> <a href='files/papers/BNU2018-Sydorov.pdf'>paper</a> </td> </tr>
-	  <tr> <td> Kaja Sõstra (Estonia) </td> <td> Using Mobile Positioning for Improving the Quality of Register Data </td> <td> <a href='files/papers/BNU2018-Sõstra.pdf'>paper</a> </td> </tr>
+	  <tr>
+		<td> Kaja Sõstra (Estonia) </td> <td> Using Mobile Positioning for Improving the Quality of Register Data </td>
+		<td> <a href='files/papers/BNU2018-Sõstra.pdf'>paper</a> <a href="files/slides/BNU2018-Sostra-slides.pptx">slides</a> </td>
+	</tr>
 	  <tr> <td> Maria Valaste (Finland) </td> <td> Handling Nonsampling Errors - Case Salo </td> <td> <a href='files/papers/BNU2018-Valaste.pdf'>paper</a> </td> </tr>
 	  <tr> <td> Olga Vasylyk (Ukraine) </td> <td> Modelling of Survey Data </td> <td> <a href='files/papers/BNU2018-Vasylyk.pdf'>paper</a> </td> </tr>
 	  <tr> <td> Peteris Vegis (Latvia) </td> <td> Combining data from registers, surveys and 2011 Population and Housing Census to prepare database for 2021 register-based Population and Housing Census in Latvia </td> <td> <a href='files/papers/BNU2018-Vegis.pdf'>paper</a> </td> </tr>
