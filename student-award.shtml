@@ -4,7 +4,6 @@
 
 <p>The competition for the Best Student Paper Award has been announced for the first time in BNU events. The award winner (or winners) will be announced durng the workshop closing session.</p>
 
-
 <h2>Competitors</h2>
 
 Award Committee has chosen six papers to be eligible for the competition:
@@ -29,9 +28,8 @@ Award Committee has chosen six papers to be eligible for the competition:
   <li>Markus Gintas Šova (Office for National Statistics, United Kingdom)</li>
 </ul>
 
+<h2>Winner</h2>
 
-
-
-
+<p>The winner of the first Best Student Paper Award is <strong>Diana Sokurova</strong> (University of Tartu, Estonia) with a paper "<a href='files/papers/BNU2018-Sokurova.pdf'>The Local Pivotal Method and its Application on StatVillage Data</a>". Congratulations!</p>
 
 <!--#include virtual="footer.shtml" -->
